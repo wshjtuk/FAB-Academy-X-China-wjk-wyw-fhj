@@ -2,9 +2,9 @@
 
 *Dreams*
  1. Wu Jiakai
-> Hundreds or Thousands of masks//
-> McDonanlds and Tea Milk Stores on the campus//
-> Open campus//
+> Hundreds or Thousands of masks <
+> McDonanlds and Tea Milk Stores on the campus <
+> Open campus <
  2. Wang Yiwei
  3. Fu Hongju
 > A mask which is self-cleaning or permanent-using
