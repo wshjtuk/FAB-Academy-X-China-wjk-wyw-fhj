@@ -15,9 +15,9 @@
 
 *Complaints*
  1. Wu Jiakai
- - [ ] Hundreds or Thousands of masks
- - [ ] McDonanlds and Tea Milk Stores on the campus
- - [ ] Open campus
+ - [ ] Teachers and Professors can leave the campus without any administration
+ - [ ] The efficiency of the online courses are very low
+ - [ ] No way to buy some cheap masks with the capacity of protection
  2. Wang Yiwei
  3. Fu Hongju
  - [ ] Many stores were closed during the COVID-19
