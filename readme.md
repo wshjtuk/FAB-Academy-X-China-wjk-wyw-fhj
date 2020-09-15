@@ -1,5 +1,7 @@
 ﻿## LIFE AT THE TIME OF AN EPIDEMIC
+
 **Assignment1**
+
 *Dreams*
  1. Wu Jiakai (Jackie)
  - [ ] Hundreds or Thousands of masks
@@ -26,7 +28,7 @@
  - [ ] No way to buy some cheap masks with the capacity of protection
  2. Wang Yiwei (Leo)
  - [ ] Wearing masks all the time, which was uncomfortable
- - [ ] Inconvinient identity check at the entrance of many places
+ - [ ] Inconvenient identity check at the entrance of many places
  - [ ] Staying at home with few sports leads to worse health
  3. Fu Hongju (Rade)
  - [ ] Many stores were closed during the COVID-19
