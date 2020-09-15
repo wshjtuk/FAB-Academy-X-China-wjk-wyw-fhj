@@ -14,6 +14,9 @@
  - [ ] An APP to tell the number of people in specific areas
  - [ ] An APP to deliver goods when staying at home
  4. Other schoolmates
+ - [ ] Getting knowledge efficiently on bed
+ - [ ] Using holographic technique to make a face-to-face teaching possible
+ - [ ] 
 
 
 *Complaints*
@@ -30,3 +33,6 @@
  - [ ] FaceID can't recognize me
  - [ ] Masks prevent me from seeing the beauties
  4. Other schoolmates
+ - [ ] Leaving doors unlocked leads to too many people in the dormitory so that increasing the risk of infection
+ - [ ] Some staff in the canteen forget to wear a mask
+ - [ ] Online courses force me to increase screen time
