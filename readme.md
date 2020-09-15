@@ -16,7 +16,7 @@
  4. Other schoolmates
  - [ ] Getting knowledge efficiently on bed
  - [ ] Using holographic technique to make a face-to-face teaching possible
- - [ ] 
+ - [ ] 48 or 72 hours a day
 
 
 *Complaints*
