@@ -1,9 +1,9 @@
 # How to press the lift button with virus surviving?
 
-BrainStorm
+## BrainStorm
 
 
->1.	Wear medical glove
+1.	Wear medical glove
 2.	Touch the button with your elbow
 3.	Disinfect the elevator daily
 4.	Film on button and replace daily
